@@ -1,4 +1,4 @@
-Flex direction can be either row or column
+Flex direction can be either row / column / row-rverse / column reverse 
 
 column fits the width of the contents downwards
 
